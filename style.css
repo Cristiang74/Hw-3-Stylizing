@@ -18,9 +18,15 @@ a{
 
 .logo{
 
+<<<<<<< HEAD
 color: green;
 background: blueviolet;
 text-align: center;
+=======
+color: blueviolet;
+text-decoration: underline;
+font-size: small;
+>>>>>>> change
 
 
 }
