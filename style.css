@@ -18,8 +18,9 @@ a{
 
 .logo{
 
-color: green;
-background: blueviolet;
+color: blueviolet;
+text-decoration: underline;
+font-size: small;
 
 
 }
